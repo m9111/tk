@@ -232,7 +232,8 @@ def initialize_global_vectorstore():
             os.path.join('data', "Ilesh Sir (IK) - Words.pdf"),
             os.path.join('data', "UBIK SOLUTION.pdf"),
             os.path.join('data', "illesh3.pdf"),
-            os.path.join('data', "website-data-ik.pdf")
+            os.path.join('data', "website-data-ik.pdf"),
+            os.path.join('data', "prods1.pdf")
         ]
 
         combined_text = ""
